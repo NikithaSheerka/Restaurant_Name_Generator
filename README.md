@@ -76,10 +76,11 @@ Select a cuisine from the sidebar and you’ll see a restaurant name and matchin
 ## 🖼️ Output Previews
 
 ### Sidebar (Cuisine Selection)
-![Sidebar](https://github.com/NikithaSheerka/Restaurant_Name_Generator/blob/main/assets/screenshot_sidebar.png)
+![Sidebar](https://raw.githubusercontent.com/NikithaSheerka/Restaurant_Name_Generator/main/assets/screenshot_sidebar.png)
 
 ### Generated Restaurant Name & Menu
-![Home](https://github.com/NikithaSheerka/Restaurant_Name_Generator/blob/main/assets/screenshot_home.png)
+![Home](https://raw.githubusercontent.com/NikithaSheerka/Restaurant_Name_Generator/main/assets/screenshot_home.png)
+
 
 
 ✨ Future Enhancements
