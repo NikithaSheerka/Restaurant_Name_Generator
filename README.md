@@ -85,11 +85,8 @@ Select a cuisine from the sidebar and you’ll see a restaurant name and matchin
 ✨ Future Enhancements
 
 Add restaurant logo generation using DALL·E
-
 Categorize menus (Starters, Mains, Desserts)
-
 Export menus as PDF
-
 Let users enter a custom cuisine name
 
 👩‍💻 Author
