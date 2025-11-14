@@ -55,10 +55,10 @@ Once it starts, open the local URL:
 
 ## 🖼️ Output Previews
 
-### Sidebar (Cuisine Selection)
+Sidebar - Cuisine Selection
 ![Sidebar](https://github.com/NikithaSheerka/Restaurant_Name_Generator/blob/main/assets/screenshot_sidebar.png)
 
-### Generated Restaurant Name & Menu
+Generated Restaurant Name & Menu
 ![Home](https://github.com/NikithaSheerka/Restaurant_Name_Generator/blob/main/assets/screenshot_home.png)
 
 
