@@ -22,25 +22,8 @@ Just pick a cuisine and watch the app do the rest.
 
 ---
 
-## 📂 Project Structure
-```text
-Restaurant_Name_Generator/
-│
-├── app/
-│   ├── main.py                # Streamlit entry point (UI)
-│   ├── langchain_helper.py    # LangChain + OpenAI logic
-│
-├── assets/                    # Screenshots for README
-│   ├── screenshot_sidebar.png
-│   ├── screenshot_home.png
-│
-├── requirements.txt
-├── README.md
-├── LICENSE
-├── .gitignore
 
-
-⚙️ Setup & Run Instructions
+## ⚙️ Setup & Run Instructions
 
 Follow these quick steps to get the app running locally 👇
 
@@ -51,8 +34,6 @@ cd Restaurant_Name_Generator
 2️⃣ Create and activate a virtual environment
 python -m venv venv
 venv\Scripts\activate      # Windows
-# or
-source venv/bin/activate   # Mac/Linux
 
 3️⃣ Install dependencies
 pip install -r requirements.txt
@@ -70,8 +51,7 @@ streamlit run app/main.py
 Once it starts, open the local URL:
 👉 http://localhost:8501
 
-🎉 That’s it!
-Select a cuisine from the sidebar and you’ll see a restaurant name and matching menu appear instantly.
+---
 
 ## 🖼️ Output Previews
 
@@ -82,21 +62,11 @@ Select a cuisine from the sidebar and you’ll see a restaurant name and matchin
 ![Home](https://github.com/NikithaSheerka/Restaurant_Name_Generator/blob/main/assets/screenshot_home.png)
 
 
+## ✨ Future Enhancements
+
+Add restaurant logo generation using DALL·E, Categorize menus (Starters, Mains, Desserts), Let users enter a custom cuisine name
 
 
-✨ Future Enhancements
+## 🪪 License
 
-Add restaurant logo generation using DALL·E
-Categorize menus (Starters, Mains, Desserts)
-Export menus as PDF
-Let users enter a custom cuisine name
-
-👩‍💻 Author
-
-Sai Nikitha Sheerka
-Seattle, WA 🌧️
-
-🪪 License
-
-This project is licensed under the MIT License — see the LICENSE
- file for details.
+This project is licensed under the MIT License
